@@ -6,15 +6,15 @@ This repository contains R scripts developed for the **Quantium Data Analysis Vi
 
 This internship project simulates a data analyst's role at Quantium, focusing on:
 
-1.  **Task 1: EDA & Data Pre-processing:** Understanding and cleaning transaction/customer data to gain insights into chip purchasing behavior.
+1.  **Task 1: EDA & Data Pre-processing:** Understanding and cleaning transaction/customer data to gain insights into chip purchasing behaviour.
 2.  **Task 2: Trial Store Analysis:** Identifying control stores and assessing the impact of a trial on sales and customer numbers.
 
 ## Files
 
 * `task1_solution.R`: R script for data loading, cleaning, and EDA.
 * `task2_solution.R`: R script for control store selection and trial assessment.
-* `task1_solution.pdf`: PDF report for Task 1 (code output, visualizations).
-* `task2_solution.pdf`: PDF report for Task 2 (code output, visualizations).
+* `task1_solution.pdf`: PDF report for Task 1 (code output, visualisations).
+* `task2_solution.pdf`: PDF report for Task 2 (code output, visualisations).
 
 ## Setup
 
